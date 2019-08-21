@@ -1,0 +1,8 @@
+@charset 'utf-8';
+
+
+.search input {
+    width: 400px;
+    border: 2px solid;
+    border-radius: 5px;
+}
